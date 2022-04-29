@@ -1,0 +1,4 @@
+﻿  HomeWork II.cpp
+D:\Programs С++\HomeWork II\HomeWork II.cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programs С++\HomeWork II\HomeWork II.cpp(66): warning C4715: get_fun: значение возвращается не при всех путях выполнения
+  HomeWork II.vcxproj -> D:\Programs С++\HomeWork II\x64\Debug\HomeWork II.exe
